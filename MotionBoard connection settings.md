@@ -12,7 +12,7 @@ Home Page: http://www.wingarc.com/en/products/motionboard.html
      ○　Image
      ○　File (PDF etc.)
   
- ●　Members and Channel can receive data. 
+ ●　Send data to Members and Channel.
  
  ## Setting flows
  
@@ -24,10 +24,10 @@ Home Page: http://www.wingarc.com/en/products/motionboard.html
  
  #### 1. Create a bot user.
 
- a. Acess to the Slack API site https://api.slack.com/ and sign in the Workspace you want to receive data from MB.
+   1. Acess to the Slack API site https://api.slack.com/ and sign in the Workspace you want to receive data from MB.
  
- b. Create a Slack APP.  https://api.slack.com/slack-apps#creating_apps.
+   1. Create a Slack APP.  https://api.slack.com/slack-apps#creating_apps.
  
- c. Create a bot user.  https://get.slack.help/hc/en-us/articles/115005265703-Create-a-bot-for-your-workspace.
+   1. Create a bot user.  https://get.slack.help/hc/en-us/articles/115005265703-Create-a-bot-for-your-workspace.
  
- d. Install the app you've created into the Workspace.
+   1. Install the app you've created into the Workspace.
