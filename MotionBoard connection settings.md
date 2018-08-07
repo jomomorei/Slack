@@ -23,7 +23,11 @@ Home Page: http://www.wingarc.com/en/products/motionboard.html
  _(If you don't, refer to https://get.slack.help/hc/en-us/articles/206845317-Create-a-Slack-workspace)_
  
  #### 1. Create a bot user.
- 
+
  a. Acess to the Slack API site https://api.slack.com/ and sign in the Workspace you want to receive data from MB.
  
- b. Create a Slack APP.
+ b. Create a Slack APP.  https://api.slack.com/slack-apps#creating_apps.
+ 
+ c. Create a bot user.  https://get.slack.help/hc/en-us/articles/115005265703-Create-a-bot-for-your-workspace.
+ 
+ d. Install the app you've created into the Workspace.
