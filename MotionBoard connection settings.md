@@ -8,9 +8,9 @@ Home Page: http://www.wingarc.com/en/products/motionboard.html
 ## What can you do if connect MB with Slack
  ●　Send data to Slack from MB.
  
-     ○　Text
-     ○　Image
-     ○　File (PDF etc.)
+     ○　　Text
+     ○　　Image
+     ○　　File (PDF etc.)
   
  ●　Send data to Members and Channel.
  
@@ -53,9 +53,9 @@ Home Page: http://www.wingarc.com/en/products/motionboard.html
  
  When you have done the setting above, the functions as below can be used.
  
-     1. Real-time alert.    
-     2. Distribution Task.   
-     3. Report Distribution Task.   
-     4. Chat Button.   
-     5. Real-time Link.
+     ● 　Real-time alert.    
+     ● 　Distribution Task.   
+     ● 　Report Distribution Task.   
+     ● 　Chat Button.   
+     ● 　Real-time Link.
    
