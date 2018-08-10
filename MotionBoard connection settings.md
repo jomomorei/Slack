@@ -42,5 +42,7 @@ Home Page: http://www.wingarc.com/en/products/motionboard.html
    
  ### Ⅲ Sending test message
  
+   ![Test Sending](/Image/test sending.png)
+   
    
    
