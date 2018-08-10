@@ -42,7 +42,26 @@ Home Page: http://www.wingarc.com/en/products/motionboard.html
    
  ### Ⅲ Sending test message
  
-   ![Test Sending](/Image/test sending.png)
+![Test Sending](/Image/test sending.png)
    
+   1. Enter the [Destination], Slack Channel or Member's name.
+    
+   1. Select the [Type]. It must be corresponding to the [Destination].
+    
+   1. Enter the message you want to send to MB in the [Content].
    
+   1. Click [Send], and check if the message have been sent to the Slack Channel or Member. 
+   
+ 
+ When you have done the setting above, the functions as below can be used.
+ 
+     1. Real-time alert.
+    
+     1. Distribution Task.
+    
+     1. Report Distribution Task.
+    
+     1. Chat Button.
+    
+     1. Real-time Link.
    
